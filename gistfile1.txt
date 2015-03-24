@@ -1,0 +1,26 @@
+
+
+
+
+
+#Write a program that prompts for a file name, then opens that file and reads through the file, 
+#looking for lines of the form: "X-DSPAM-Confidence:    0.8475"
+#Count these lines and extract the floating point values from each of the lines and compute the average of those values
+#and produce an output as shown below.You can download the sample data at http://www.pythonlearn.com/code/mbox-short.txt 
+#When you are #esting below enter mbox-short.txt as the file name.
+
+fname = raw_input("Enter file name: ")
+try:
+    fh = open(fname)
+except:
+    print "Please check the file. File could not be opened."
+count = 0
+total = 0
+for line in fh:
+    if not line.startswith("X-DSPAM-Confidence:"): 
+        continue
+    count += 1
+    num_str = line[line.find("0"):]
+    total += float(num_str)
+    avr_spam_conf = total / count
+print "Average spam confidence:", avr_spam_conf
