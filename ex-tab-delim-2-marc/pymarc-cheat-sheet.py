@@ -1,5 +1,16 @@
 # Common PyMARC functions
 # Documentation at:  https://github.com/edsu/pymarc
+
+# pymarc.MARCReader(file('filename.mrc'), to_unicode=True, force_utf8=True
+# pymarc.MARCWriter(file('filename.mrc', 'w')
+# record.add_field()
+# record.add_ordered_field()
+# record.get_fields()
+# record.remove_field()
+# field.add_subfield()
+# field.get_subfields()
+# field.delete_subfield()
+
 #####################################################
 # READ input from or WRITE output to .mrc MARC files
 # Read in an .mrc input file of MARC records and assign to a variable:
@@ -7,6 +18,7 @@
   
 # Create an .mrc file object to write out MARC records to the file
   marc_recs_out = pymarc.MARCWriter(file('my_marc_output.mrc', 'w'))
+
 #####################################################
 # Record-level functions:  https://github.com/edsu/pymarc/blob/master/pymarc/record.py
 # ADD FIELD to record
