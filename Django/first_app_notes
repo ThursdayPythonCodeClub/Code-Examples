@@ -1,0 +1,76 @@
+--  Install Django
+		pip install Django
+--  Create a new project
+	django-admin.py startproject [project name]
+--  creates manage.py file within the project folder, among other files
+		myproject/
+			manage.py
+			myproject/
+				settings.py - this is the file to edit for dbases, etc.
+				urls.py - includes URLs available to...?
+				wsgi.py
+				__init__.py
+
+--  the next command can *only* be run from the root folder of the project
+		python3 manage.py runserver
+		OR just
+		python manage.py runserver
+		
+		if you have unapplied migration errors, you need to stop the server (CTRL-C) and then run:
+		
+		python manage.py migrate
+		
+		then re-start server
+		python manage.py runserver
+		
+		you'll get the HTTP IP address that you can enter into a browser to view the site
+		if the server is not running, you won't be able to see the site
+
+--  create an app within the project
+		django-admin.py startapp [app name]
+		* note, you may not need the ".py" after django-admin
+		myproject/
+			manage.py
+			myproject/
+				settings.py - this is the file to edit for dbases, etc.
+				urls.py - includes URLs available to...?
+				wsgi.py
+				__init__.py
+			myapp/
+				__init__.py
+				admin.py
+				migrations/
+				models.py - holds dbase connections, tables, etc.
+				tests.py - for testing purposes (not covered today)
+				views.py - this is the file to edit the page display
+			db.sqlite3 - this database is created
+
+--  before editing views.py,
+	--  need to edit the settings.py file in the myproject folder to add the new app
+		INSTALLED_APPS = (
+			...
+			'myapp'
+		)
+		
+	--  edit the urls.py to tell it what URL you go to to view the app
+		from myapp.views import appname
+		
+		urlpatterns = [
+			...
+			url(r'myappDirectory/$', appname),
+			url(r'^$', appname)		# this 2nd line makes the app appear at the root (e.g., http://127.0.0.1:8000/)
+		]
+		
+		the url function takes up to 5 parameters - 1st is a regex to tell it what directory the app will appear under, "appname" is a variable to be defined in views.py
+	
+	--  now can edit views.py - define what's going to display on that page
+			from django.http import HttpResponse
+			
+			# define the variable in the url function
+			def appname(request):
+				return HttpResponse("Hello, World!")
+			
+			To see the changes, go to the http IP address and add the directory name to the end (e.g., http://127.0.0.1:8000/myappDirectory)
+			having the 2nd url command in urls.py, the app also appears at the root page
+
+
