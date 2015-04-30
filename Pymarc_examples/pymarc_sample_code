@@ -3,17 +3,22 @@
 import pymarc
 from pymarc import Record, Field
 
+# INPUT FILE
+marc_recs_in = pymarc.MARCReader(file('my_marc_recs.mrc'), to_unicode=True, force_utf8=True)
 
-all_001s = list()
+recs_with_subfield_0 = list()	# a list variable to capture all the 001 record numbers for records having a field containing a subfield $0
 
-for rec in recs:
-	rec_001 = rec.get_fields('001').value()
-	fields = rec.get_fields()
-	for field in fields:
-		subfields = field.get_subfields('0')
-		if len(subfields) > 0:
+for rec in marc_recs_in:	# iterate through all the records in the my_marc_recs.mrc input file
+	rec_001_value = rec.get_fields('001')[0].value()
+		# get_fields('001') captures *all* the 001 fields found in the record
+		# adding [0] returns the 1st 001 field found in the record (there should only be one)
+		# and adding .value() returns the *content* of the 001 field, not the 001 as a field object
+	fields = rec.get_fields()	# having no parameter in the get_fields() function will return *all* fields in the record
+	for field in fields:		# iterate through all the fields in the record
+		subfields = field.get_subfields('0')	# returns all the subfield $0's found in the field
+		if len(subfields) > 0:	# there is at least one subfield $0 in the field
 			# do stuff
-			all_001s.append(rec_001)
+			recs_with_subfield_0.append(rec_001_value)	# add the 001 record number to the list
 		else:
 			# do something else
 
