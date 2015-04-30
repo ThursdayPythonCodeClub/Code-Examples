@@ -1,0 +1,251 @@
+Sublibrary|Collection|Material Type|Item Status|IPS|Temp Loc|Item Count
+TNS Scherman Library|Annex|Scores|Regular loan|Not in Process|No|1
+TNS Scherman Library|SpecCol|Books|Regular loan|Not in Process|No|2
+TNS Scherman Library|Full Score|Scores|Lost/Reorder Review|Lost/Reorder Review|Yes|1
+TNS Scherman Library|Annex|Visual Materials|Multi-Media|Not in Process|No|14
+TNS Scherman Library|Audio Visual|Books|Recorded music|Not in Process|No|3
+TNS Scherman Library|Reserve Collection|Videos|Video|Not in Process|Yes|2
+TNS Scherman Library|Audio Visual|Books|Reserve 4 hour loan|Not in Process|No|3
+TNS Scherman Library|Miniature Scores|Scores|Depository|Depository|No|1128
+TNS Scherman Library|Reference|Books|Labeling|Labeling|No|1
+TNS Scherman Library|Audio Visual|Videos|Video|Not in Process|Yes|5
+TNS Scherman Library|SpecCol|Scores|Regular loan|Not in Process|No|1
+TNS Scherman Library|Reference|Periodicals|Missing|Missing|No|2
+TNS Scherman Library|Main Collection|Books|In Cataloging|In Cataloging|No|5
+TNS Scherman Library|Main Collection|Periodicals|Depository|Depository|No|22
+TNS Scherman Library|Full Score|Periodicals|Received|Received|No|1
+TNS Scherman Library|Main Collection|Books|Bindery prep|Bindery prep|No|11
+TNS Scherman Library|Miniature Scores|Scores|Lost and Paid|Lost and Paid|Yes|6
+TNS Scherman Library|Reference|Books|Depository|Depository|No|202
+TNS Scherman Library|Music|Scores|Lost/Reorder Review|Lost/Reorder Review|Yes|24
+TNS Scherman Library|Oversize Collection|Books|Depository|Depository|No|3
+TNS Scherman Library|Main Collection|Scores|Regular loan|Not in Process|No|178
+TNS Scherman Library|Periodicals|Periodicals|Library Use Only|Not in Process|No|1
+TNS Scherman Library|Audio Visual|Videos|On Search|On Search|No|1
+TNS Scherman Library|Main Collection|Books|On Order|On order|Yes|5
+TNS Scherman Library|Audio Visual|Sound Recordings|Recorded music|Not in Process|No|6810
+TNS Scherman Library|Circ Desk|Books|In Cataloging|In Cataloging|No|2
+TNS Scherman Library|SpecCol|Scores|Library Use Only|Not in Process|No|36
+TNS Scherman Library|Music|Books|Bindery prep|Bindery prep|No|3
+TNS Scherman Library|Main Collection|Books|Lost and Paid|Lost and Paid|No|1
+TNS Scherman Library|Music Reference|Scores|Bindery prep|Bindery prep|No|3
+TNS Scherman Library|Audio Visual|Scores|Depository|Depository|No|1
+TNS Scherman Library|Miniature Scores|Scores|Depository|Depository|Yes|2
+TNS Scherman Library|Audio Visual|Sound Recordings|Reserve 4 hour loan|Not in Process|Yes|1
+TNS Scherman Library|Miniature Scores|Books|Regular loan|Not in Process|No|3
+TNS Scherman Library|SpecCol|Scores|Bindery prep|Bindery prep|No|1
+TNS Scherman Library|Annex|Books|Regular loan|Not in Process|No|1
+TNS Scherman Library|SpecCol|Periodicals|Depository|Depository|No|3
+TNS Scherman Library|SpecCol|Mixed Materials|Library Use Only|Not in Process|No|44
+TNS Scherman Library|Audio Visual|Sound Recordings|Video|Not in Process|No|1
+TNS Scherman Library|Reserve Collection|Scores|Reserve 4 hour loan|Not in Process|Yes|83
+TNS Scherman Library|Music|Scores|Depository|Depository|No|5366
+TNS Scherman Library|Full Score|Scores|Being Repaired|Being Repaired|No|1
+TNS Scherman Library|Full Score|Scores|Regular loan|Not in Process|No|2265
+TNS Scherman Library|Audio Visual|Sound Recordings|Out to Cat|Out to Cat|No|24
+TNS Scherman Library|Music|Scores|Billed as lost|Billed as lost|No|1
+TNS Scherman Library|Main Collection|Periodicals|Periodicals|Not in Process|No|3
+TNS Scherman Library|Audio Visual|Sound Recordings|On Search|On Search|No|1
+TNS Scherman Library|Miniature Scores|Scores|Lost/Reorder Review|Lost/Reorder Review|No|10
+TNS Scherman Library|SpecCol|Books|Depository|Depository|No|41
+TNS Scherman Library|Music Reference|Scores|Depository|Depository|No|233
+TNS Scherman Library|Periodicals|Periodicals|Not Pub&apos;d|Not Pub&apos;d|No|3
+TNS Scherman Library|Main Collection|Books|On Search|On Search|No|22
+TNS Scherman Library|Full Score|Scores|In House Cataloging|In House Cataloging|No|27
+TNS Scherman Library|Main Collection|Scores|Depository|Depository|No|74
+TNS Scherman Library|Full Score|Scores|In Transit|In Transit|No|1
+TNS Scherman Library|Audio Visual|Sound Recordings|Library Use Only|Not in Process|No|11
+TNS Scherman Library|SpecCol|Scores|On Search|On Search|No|2
+TNS Scherman Library|Main Collection|Sound Recordings|Recorded music|Not in Process|No|3
+TNS Scherman Library|Music|Scores|Library Use Only|Not in Process|Yes|1
+TNS Scherman Library|SpecCol|Visual Materials|Library Use Only|Not in Process|No|1
+TNS Scherman Library|Main Collection|Issue (bound)|Regular loan|Not in Process|No|7
+TNS Scherman Library|Oversize Collection|Books|NYU offsite prep|Offsite processing|No|6
+TNS Scherman Library|Periodicals|Periodicals|Missing|Missing|No|14
+TNS Scherman Library||Realia|Regular loan|Not in Process|No|1
+TNS Scherman Library|Music|Scores|In Transit|In Transit|Yes|1
+TNS Scherman Library|Full Score|Scores|Depository|Depository|No|1933
+TNS Scherman Library|Music|Scores|Out to Cat|Out to Cat|Yes|1
+TNS Scherman Library|Music|Scores|Received|Received|No|1
+TNS Scherman Library|Audio Visual|Books|Library Use Only|Not in Process|No|2
+TNS Scherman Library|Audio Visual|Sound Recordings|In Transit|In Transit|No|2
+TNS Scherman Library|Music|Books|Regular loan|Not in Process|No|50
+TNS Scherman Library|Miniature Scores|Scores|Regular loan|Not in Process|No|2921
+TNS Scherman Library|Main Collection|Books|Circulation Bindery Shelves|Circulation Bindery Shelves|No|1
+TNS Scherman Library|Music|Sound Recordings|Out to Cat|Out to Cat|No|50
+TNS Scherman Library|Reserve Collection|Books|Regular loan|Not in Process|No|1
+TNS Scherman Library|Full Score|Scores|NYU offsite prep|Offsite processing|No|1
+TNS Scherman Library|Main Collection|Books|Out to Cat|Out to Cat|No|1
+TNS Scherman Library|Audio Visual|Sound Recordings|Bindery prep|Bindery prep|No|1
+TNS Scherman Library|Audio Visual|Videos|Recorded music|Not in Process|No|9
+TNS Scherman Library|Reserve Collection|Books|Reserve 4 hour loan|Not in Process|Yes|55
+TNS Scherman Library|SpecCol|Periodicals|Library Use Only|Not in Process|No|13
+TNS Scherman Library|Reference|Periodicals|Depository|Depository|No|42
+TNS Scherman Library|Music Reference|Periodicals|Received|Received|No|1
+TNS Scherman Library|Audio Visual|Sound Recordings|Regular loan|Not in Process|No|16
+TNS Scherman Library|Reference|Books|On Order|On order|Yes|1
+TNS Scherman Library|Music|Sound Recordings|On Order|On order|No|3
+TNS Scherman Library|Annex|Sound Recordings|In Transit|In Transit|No|1
+TNS Scherman Library|SpecCol|Scores|TNS Offsite mediated available|Depository mediated|No|6
+TNS Scherman Library|SpecCol|Mixed Materials|Depository|Depository|No|29
+TNS Scherman Library|Reference|Books|Lost/Reorder Review|Lost/Reorder Review|No|1
+TNS Scherman Library|Oversize Collection|Scores|Regular loan|Not in Process|No|19
+TNS Scherman Library|SpecCol|Scores|NYU offsite prep|Offsite processing|No|1
+TNS Scherman Library|Music Reference|Scores|In Transit|In Transit|No|1
+TNS Scherman Library|Audio Visual|Sound Recordings|Regular loan|Not in Process|Yes|13
+TNS Scherman Library|Periodicals|Books|Library Use Only|Not in Process|No|1
+TNS Scherman Library|Audio Visual|Videos|Reserve 4 hour loan|Not in Process|No|5
+TNS Scherman Library|Annex|Sound Recordings|Regular loan|Not in Process|No|91
+TNS Scherman Library|Main Collection|Books|In House Cataloging|In House Cataloging|No|13
+TNS Scherman Library|Oversize Collection|Books|Regular loan|Not in Process|No|80
+TNS Scherman Library|Music|Scores|Regular loan|Not in Process|No|16070
+TNS Scherman Library|Music|Scores|Depository|Depository|Yes|49
+TNS Scherman Library|Music|Scores|Regular loan|Not in Process|Yes|317
+TNS Scherman Library|Music Reference|Sound Recordings|Library Use Only|Not in Process|No|1
+TNS Scherman Library|Audio Visual|Scores|Reserve 4 hour loan|Not in Process|No|2
+TNS Scherman Library|Music|Scores|Out to Cat|Out to Cat|No|1
+TNS Scherman Library|Music|Scores|NYU offsite prep|Offsite processing|No|11
+TNS Scherman Library|SpecCol|Periodicals|NYU offsite prep|Offsite processing|No|9
+TNS Scherman Library|Periodicals|Periodicals|Periodicals|Not in Process|No|3
+TNS Scherman Library|Full Score|Scores|Library Use Only|Not in Process|No|1
+TNS Scherman Library|Audio Visual|Books|Video|Not in Process|No|1
+TNS Scherman Library|Audio Visual|Videos|Lost/Reorder Review|Lost/Reorder Review|Yes|2
+TNS Scherman Library|Full Score|Scores|On Search|On Search|Yes|1
+TNS Scherman Library|Periodicals|Periodicals|Claimed|Claimed|No|5
+TNS Scherman Library|Main Collection|Issue (bound)|Regular loan|Not in Process|Yes|4
+TNS Scherman Library|Reserve Collection|Realia|Reserve 4 hour loan|Not in Process|Yes|9
+TNS Scherman Library|Audio Visual|Books|In Cataloging|In Cataloging|No|1
+TNS Scherman Library|Main Collection|Books|Special Collection|Not in Process|No|1
+TNS Scherman Library|Oversize Collection|Scores|Bindery prep|Bindery prep|No|2
+TNS Scherman Library|Reference|Scores|In Transit|In Transit|No|2
+TNS Scherman Library|Music Reference|Scores|On Search|On Search|No|2
+TNS Scherman Library|Reference|Books|Special|Not in Process|No|1
+TNS Scherman Library|Reference|Books|Library Use Only|Not in Process|No|1271
+TNS Scherman Library|Music|Sound Recordings|Recorded music|Not in Process|No|1
+TNS Scherman Library|Full Score|Books|Regular loan|Not in Process|No|5
+TNS Scherman Library|Music Reference|Scores|Library Use Only|Not in Process|No|2800
+TNS Scherman Library|Music|Scores|On Search|On Search|Yes|12
+TNS Scherman Library|Circ Desk|Mixed Materials|Reserve 4 hour loan|Not in Process|No|1
+TNS Scherman Library|Main Collection|Periodicals|Received|Received|No|5
+TNS Scherman Library|Music|Scores|In House Cataloging|In House Cataloging|Yes|3
+TNS Scherman Library|Annex|Electronic Resources|Multi-Media|Not in Process|No|1
+TNS Scherman Library|SpecCol|Videos|Reserve 2 hour loan|Not in Process|No|2
+TNS Scherman Library|Main Collection|Sound Recordings|Out to Cat|Out to Cat|No|20
+TNS Scherman Library|Full Score|Scores|Lost/Reorder Review|Lost/Reorder Review|No|4
+TNS Scherman Library|Music|Scores|Lost and Paid|Lost and Paid|No|13
+TNS Scherman Library|Audio Visual|Sound Recordings|In Transit|In Transit|Yes|1
+TNS Scherman Library|Music|Scores|Rpl. Order|Rpl. Order|Yes|1
+TNS Scherman Library|Main Collection|Scores|Recorded music|Not in Process|No|1
+TNS Scherman Library|Main Collection|Books|Regular loan|Not in Process|No|6300
+TNS Scherman Library|SpecCol|Scores|Depository|Depository|No|186
+TNS Scherman Library|Music|Scores|Bindery prep|Bindery prep|No|10
+TNS Scherman Library|Main Collection|Books|Lost and Paid|Lost and Paid|Yes|4
+TNS Scherman Library|Music|Sound Recordings|Depository|Depository|No|1
+TNS Scherman Library|Periodicals|Periodicals|Received|Received|No|138
+TNS Scherman Library|Music|Books|Regular loan|Not in Process|Yes|8
+TNS Scherman Library|Main Collection|Sound Recordings|Regular loan|Not in Process|No|9
+TNS Scherman Library|Music|Scores|Lost/Reorder Review|Lost/Reorder Review|No|8
+TNS Scherman Library|Main Collection|Scores|Out to Cat|Out to Cat|Yes|71
+TNS Scherman Library|Music|Scores|In Transit|In Transit|No|2
+TNS Scherman Library|Main Collection|Books|Library Use Only|Not in Process|No|11
+TNS Scherman Library|Main Collection|Scores|Regular loan|Not in Process|Yes|1
+TNS Scherman Library|Reference|Books|Depository|Depository|Yes|1
+TNS Scherman Library|SpecCol|Books|Library Use Only|Not in Process|No|16
+TNS Scherman Library|Annex|Books|Depository|Depository|No|44
+TNS Scherman Library|Main Collection|Issue (bound)|Depository|Depository|No|9
+TNS Scherman Library|SpecCol|Sound Recordings|Library Use Only|Not in Process|No|4
+TNS Scherman Library|Reserve Collection|Books|In Cataloging|In Cataloging|No|2
+TNS Scherman Library|Music|Periodicals|Regular loan|Not in Process|No|1
+TNS Scherman Library|Main Collection|Books|Regular loan|Not in Process|Yes|134
+TNS Scherman Library|Reserve Collection|Videos|Reserve 4 hour loan|Not in Process|No|1
+TNS Scherman Library|Audio Visual|Videos|Video|Not in Process|No|622
+TNS Scherman Library|Full Score|Scores|Depository|Depository|Yes|2
+TNS Scherman Library|Music|Sound Recordings|Order initiated|OI|No|5
+TNS Scherman Library|Music|Scores|Missing|Missing|No|2
+TNS Scherman Library|Reserve Collection|Sound Recordings|Reserve 4 hour loan|Not in Process|Yes|28
+TNS Scherman Library|SpecCol|Books|Bindery prep|Bindery prep|No|5
+TNS Scherman Library|Annex|Sound Recordings|Depository|Depository|Yes|1
+TNS Scherman Library|Full Score|Scores|Regular loan|Pre-bindery|No|1
+TNS Scherman Library|Reserve Collection|Books|Regular loan|Not in Process|Yes|2
+TNS Scherman Library|Miniature Scores|Scores|In Transit|In Transit|No|1
+TNS Scherman Library|Main Collection|Periodicals|Bindery prep|Bindery prep|No|1
+TNS Scherman Library|Music|Books|In House Cataloging|In House Cataloging|No|2
+TNS Scherman Library|Music|Periodicals|Received|Received|No|8
+TNS Scherman Library|Reserve Collection|Sound Recordings|Regular loan|Not in Process|Yes|1
+TNS Scherman Library|Audio Visual|Sound Recordings|Recorded music|Not in Process|Yes|18
+TNS Scherman Library|Reserve Collection|Scores|Reserve 4 hour loan|Not in Process|No|1
+TNS Scherman Library|Audio Visual|Sound Recordings|Depository|Depository|No|5658
+TNS Scherman Library|Annex|Scores|Depository|Depository|No|46
+TNS Scherman Library|Main Collection|Sound Recordings|On Order|On order|No|1
+TNS Scherman Library|Reserve Collection|Sound Recordings|Recorded music|Not in Process|Yes|2
+TNS Scherman Library|Annex|Sound Recordings|Recorded music|Not in Process|Yes|536
+TNS Scherman Library|Reference|Books|NYU offsite prep|Offsite processing|No|3
+TNS Scherman Library|Main Collection|Scores|Out to Cat|Out to Cat|No|1
+TNS Scherman Library|SpecCol|Scores|Library Use Only|Not in Process|Yes|1
+TNS Scherman Library|Audio Visual|Sound Recordings|On Search|On Search|Yes|1
+TNS Scherman Library|Main Collection|Periodicals|Regular loan|Not in Process|No|118
+TNS Scherman Library|Reference|Books|Regular loan|Not in Process|No|43
+TNS Scherman Library|Miniature Scores|Scores|Regular loan|Not in Process|Yes|49
+TNS Scherman Library|Full Score|Scores|On Order|On order|Yes|1
+TNS Scherman Library|Full Score|Scores|Regular loan|Not in Process|Yes|42
+TNS Scherman Library|Periodicals|Periodicals|Depository|Depository|No|370
+TNS Scherman Library|Reference|Scores|Library Use Only|Not in Process|No|17
+TNS Scherman Library|Audio Visual|Sound Recordings|NYU offsite prep|Offsite processing|No|2
+TNS Scherman Library|Main Collection|Books|Depository|Depository|No|1876
+TNS Scherman Library|Miniature Scores|Scores|On Search|On Search|No|12
+TNS Scherman Library|Oversize Collection|Books|In House Cataloging|In House Cataloging|No|2
+TNS Scherman Library|Oversize Collection|Scores|Library Use Only|Not in Process|No|1
+TNS Scherman Library|Miniature Scores|Scores|Lost and Paid|Lost and Paid|No|1
+TNS Scherman Library|Music Reference|Scores|At Bindery|At Bindery|No|3
+TNS Scherman Library|SpecCol|Books|Special Collection|Not in Process|No|3
+TNS Scherman Library|Music|Scores|In House Cataloging|In House Cataloging|No|29
+TNS Scherman Library|Music Reference|Sound Recordings|Out to Cat|Out to Cat|No|1
+TNS Scherman Library|Music|Scores|On Search|On Search|No|69
+TNS Scherman Library|Reference|Sound Recordings|Library Use Only|Not in Process|No|2
+TNS Scherman Library|Music Reference|Books|Library Use Only|Not in Process|No|89
+TNS Scherman Library|Music Reference|Scores|In House Cataloging|In House Cataloging|No|2
+TNS Scherman Library|Audio Visual|Sound Recordings|On Order|On order|No|1
+TNS Scherman Library|Music|Sound Recordings|Withdrawn|Withdrawn|No|1
+TNS Scherman Library|SpecCol|Periodicals|On Search|On Search|No|2
+TNS Scherman Library|Music|Sound Recordings|Regular loan|Not in Process|No|41
+TNS Scherman Library|Main Collection|Scores|In House Cataloging|In House Cataloging|No|18
+TNS Scherman Library|Miniature Scores|Scores|At Bindery|At Bindery|No|1
+TNS Scherman Library|Main Collection|Videos|Video|Not in Process|No|14
+TNS Scherman Library|Periodicals|Periodicals|Expected|Expected|No|114
+TNS Scherman Library|Main Collection|Books|On Search|On Search|Yes|2
+TNS Scherman Library|Reference|Periodicals|Library Use Only|Not in Process|No|37
+TNS Scherman Library|Audio Visual|Videos|Depository|Depository|No|10
+TNS Scherman Library|Main Collection|Books|Depository|Depository|Yes|4
+TNS Scherman Library|Annex|Sound Recordings|Recorded music|Not in Process|No|505
+TNS Scherman Library|Periodicals|Issue (bound)|At Bindery|At Bindery|No|1
+TNS Scherman Library|Audio Visual|Videos|Library Use Only|Not in Process|No|105
+TNS Scherman Library|Music Reference|Periodicals|Depository|Depository|No|1
+TNS Scherman Library|Music|Scores|Lost and Paid|Lost and Paid|Yes|15
+TNS Scherman Library|Music|Sound Recordings|Regular loan|Not in Process|Yes|1
+TNS Scherman Library|Music|Sound Recordings|Reserve 4 hour loan|Not in Process|No|1
+TNS Scherman Library|Main Collection|Scores|On Order|On order|Yes|16
+TNS Scherman Library|Audio Visual|Sound Recordings|Reserve 4 hour loan|Not in Process|No|575
+TNS Scherman Library|Miniature Scores|Scores|In House Cataloging|In House Cataloging|No|1
+TNS Scherman Library|Main Collection|Books|Lost/Reorder Review|Lost/Reorder Review|Yes|14
+TNS Scherman Library|Music|Books|Depository|Depository|No|6
+TNS Scherman Library|Miniature Scores|Scores|Bindery prep|Bindery prep|No|2
+TNS Scherman Library|Annex|Periodicals|Depository|Depository|No|1
+TNS Scherman Library|Audio Visual|Videos|Regular loan|Not in Process|Yes|1
+TNS Scherman Library|SpecCol|Scores|Special Collection|Not in Process|No|1
+TNS Scherman Library|SpecCol|Books|Depository|Depository|Yes|1
+TNS Scherman Library|Main Collection|Videos|Regular loan|Not in Process|No|1
+TNS Scherman Library|Periodicals|Issue (bound)|Depository|Depository|No|407
+TNS Scherman Library|Audio Visual|Scores|Video|Not in Process|No|2
+TNS Scherman Library|Music Reference|Books|Regular loan|Not in Process|No|2
+TNS Scherman Library|Full Score|Scores|On Search|On Search|No|11
+TNS Scherman Library|Office|Books|Depository|Depository|No|4
+TNS Scherman Library|Music Reference|Scores|Regular loan|Not in Process|No|21
+TNS Scherman Library|Main Collection|Books|Lost/Reorder Review|Lost/Reorder Review|No|7
+TNS Scherman Library|Miniature Scores|Books|Depository|Depository|No|1
+TNS Scherman Library|Circ Desk|Sound Recordings|Regular loan|Not in Process|No|1
+TNS Scherman Library|Full Score|Sound Recordings|Regular loan|Not in Process|No|2
+TNS Scherman Library|Reference|Issue (bound)|Library Use Only|Not in Process|No|4
+TNS Scherman Library|Main Collection|Books|NYU offsite prep|Offsite processing|No|6
+TNS Scherman Library|Music|Scores|Library Use Only|Not in Process|No|5
+TNS Scherman Library|Music Reference|Books|In House Cataloging|In House Cataloging|No|1
+TNS Scherman Library|Oversize Collection|Scores|Depository|Depository|No|2
