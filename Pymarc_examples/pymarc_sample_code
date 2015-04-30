@@ -1,0 +1,19 @@
+#!/usr/bin/python
+
+import pymarc
+from pymarc import Record, Field
+
+
+all_001s = list()
+
+for rec in recs:
+	rec_001 = rec.get_fields('001').value()
+	fields = rec.get_fields()
+	for field in fields:
+		subfields = field.get_subfields('0')
+		if len(subfields) > 0:
+			# do stuff
+			all_001s.append(rec_001)
+		else:
+			# do something else
+
