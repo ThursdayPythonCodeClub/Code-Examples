@@ -18,6 +18,11 @@ might as well use em.
 Sorry that the output is kind of messy, it's mostly just to show what the
 toolkit can do. Obviously, you would want to work out a better way to display
 the data if you were to show it to people.
+
+A couple of interesting sites:
+http://streamhacker.com/
+http://textminingonline.com/dive-into-nltk-part-i-getting-started-with-nltk
+
 '''
 # Import the words for both and, for later, the full text for Moby Dick
 emma = gutenberg.words('austen-emma.txt')
